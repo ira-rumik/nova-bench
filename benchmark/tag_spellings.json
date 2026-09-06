@@ -1,0 +1,37 @@
+{
+ "grok": {
+  "laugh": "[laugh]",
+  "chuckle": "[chuckle]",
+  "sigh": "[sigh]"
+ },
+ "inworld_tts2": {
+  "laugh": "[laugh]",
+  "chuckle": "[chuckle]",
+  "sigh": "[sigh]"
+ },
+ "rumik_oss_1": {
+  "laugh": "<laugh>",
+  "chuckle": "<chuckle>",
+  "sigh": "<sigh>"
+ },
+ "orpheus_3b": {
+  "laugh": "<laugh>",
+  "chuckle": "<chuckle>",
+  "sigh": "<sigh>"
+ },
+ "elevenlabs_v3": {
+  "laugh": "[laughs]",
+  "chuckle": "[chuckles]",
+  "sigh": "[sighs]"
+ },
+ "gemini_3_1_flash_tts": {
+  "laugh": "[laughs]",
+  "chuckle": "[chuckles]",
+  "sigh": "[sighs]"
+ },
+ "cartesia_sonic_3_6": {
+  "laugh": "[laughter]",
+  "chuckle": "[laughter]",
+  "sigh": null
+ }
+}

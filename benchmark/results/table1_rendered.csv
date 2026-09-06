@@ -1,0 +1,8 @@
+system,tags,silk-ASR (ours) laughter-union,silk-ASR (ours) sigh,Gemini verifier laughter-union,Gemini verifier sigh,Scribe v2 laughter-union,Scribe v2 sigh,score
+Grok (ara),L·C·S,1.00,1.00,1.00,0.99,1.00,0.84,0.97
+Inworld TTS-2 (Ashley),L·C·S,1.00,0.99,1.00,1.00,0.98,0.68,0.94
+Rumik-OSS 1 (Ira),L·C·S,0.86,0.89,0.92,0.96,0.87,0.80,0.88
+Orpheus 3B (tara),L·C·S,0.52,0.95,0.81,0.99,0.67,0.93,0.81
+ElevenLabs v3 (Jessica),L·C·S,0.40,0.86,0.83,0.97,0.33,0.84,0.71
+Gemini 3.1 Flash TTS (Kore),L·C·S,0.70,0.71,0.67,0.51,0.81,0.59,0.66
+Cartesia Sonic 3.6 (Monica),L,0.99,n/a,1.00,n/a,1.00,n/a,0.50

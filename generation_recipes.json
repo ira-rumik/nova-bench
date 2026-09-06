@@ -1,0 +1,43 @@
+{
+ "_note": "Voice and settings each system was run with. Prompts: benchmark/prompts.jsonl with the tag rewritten per benchmark/tag_spellings.json. Three synthesis runs per prompt; where a system accepts a seed, a different seed per run. Generated 2026-09-04.",
+ "grok": {
+  "name": "Grok TTS (xAI)",
+  "voice": "ara",
+  "settings": "no sampling controls exposed"
+ },
+ "inworld_tts2": {
+  "name": "Inworld TTS-2",
+  "model": "inworld-tts-2",
+  "voice": "Ashley",
+  "settings": "default delivery mode; LINEAR16 24 kHz"
+ },
+ "rumik_oss_1": {
+  "name": "Rumik-OSS 1",
+  "voice": "Ira",
+  "settings": "emotion descriptor happy for laugh and chuckle prompts, sad for sigh prompts; Indian-English accent; default sampling"
+ },
+ "orpheus_3b": {
+  "name": "Orpheus 3B",
+  "model": "canopylabs/orpheus-3b-0.1-ft",
+  "voice": "tara",
+  "settings": "temperature 0.6, top_p 0.8, repetition_penalty 1.3 (repository README defaults); SNAC 24 kHz"
+ },
+ "elevenlabs_v3": {
+  "name": "ElevenLabs v3",
+  "model": "eleven_v3",
+  "voice": "Jessica (premade voice cgSgspJ2msm6clMCkdW9)",
+  "settings": "stability 0.0 (Creative); pcm_24000"
+ },
+ "gemini_3_1_flash_tts": {
+  "name": "Gemini 3.1 Flash TTS",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Kore",
+  "settings": "defaults"
+ },
+ "cartesia_sonic_3_6": {
+  "name": "Cartesia Sonic 3.6",
+  "model": "sonic-3.6",
+  "voice": "Monica (1b4ea5fb-b1c0-43ee-a7be-4e315878c2b1)",
+  "settings": "defaults; language en; pcm_s16le 24 kHz; laugh and chuckle prompts both sent as [laughter]; sigh prompts not sent (no tag)"
+ }
+}

@@ -1,0 +1,15 @@
+NoVA Benchmark
+Copyright 2026 Rumik Intelligence Private Limited
+
+This repository contains material that is not authored by Rumik:
+
+- benchmark/prompts.jsonl: the laugh, chuckle and sigh items of the NVV-SuperBench English evaluation set
+  (Liumeng Xue et al., "NVV-SuperBench: Beyond Words, Beyond Quality-Benchmarking Nonverbal Vocalizations in
+  Speech Generation", Interspeech 2026; https://github.com/lmxue/NVV-SuperBench), reproduced for reproduction of
+  this benchmark with attribution to their authors.
+- evaluation/prompts/nvv_superbench_verifier_v1.txt and evaluation/prompts/allowed_tags.json: the verifier prompt,
+  response schema and tag inventory of NVV-SuperBench, reproduced verbatim with attribution.
+
+Names of third-party products (Grok, Inworld, Gemini, Orpheus, ElevenLabs, Scribe, Cartesia) are the property of their
+owners. This repository does not include or license any generated audio, any third-party model or voice, or any
+provider's API, and grants no permission to redistribute a provider's outputs.
